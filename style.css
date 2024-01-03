@@ -25,4 +25,14 @@
 
 .box4{
     background-color: aquamarine;
+    position: fixed;
+    top: 50%;
+    left: 50%
+}
+
+.box5{
+    background-color: yellow;
+    position: sticky;
+    top: 0px;
+    left: 50%;
 }
